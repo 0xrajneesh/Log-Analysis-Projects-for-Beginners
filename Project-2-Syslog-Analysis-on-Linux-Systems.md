@@ -1,4 +1,4 @@
-# Project: Introduction to Syslog Analysis on Linux Systems
+# Project 2: Introduction to Syslog Analysis on Linux Systems
 
 ## Introduction
 In this project, students will learn the basics of syslog analysis on Linux systems. Syslog is a standard logging protocol used to collect and store log messages from various system processes and applications. By the end of this project, students will be able to configure syslog, access and interpret log files, and analyze log data for troubleshooting and security monitoring.
